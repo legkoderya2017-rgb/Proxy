@@ -1,0 +1,6 @@
+{
+  "name": "Zapret Optimizer",
+  "description": "DPI bypass simulation, secure DNS optimizer, latency benchmark, and AI-powered diagnostic tool for YouTube, Discord, Roblox, and popular AI chats on Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
